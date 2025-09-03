@@ -28,7 +28,7 @@ assetsSummary:
   - ProcessingModule
 citation: Floeder, Joseph R; Jeong, Huijeong; Mohebi, Ali; Namboodiri, Vijay Mohan
   K (2025) Floeder et al (2025) Mesolimbic dopamine ramps reflect environmental timescales
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001552/draft
+  (Version 0.250903.1802) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001552/0.250903.1802
 contributor:
 - email: jfloeder@fordham.edu
   identifier: 0000-0002-6800-7730
@@ -103,13 +103,14 @@ dateCreated: '2025-08-21T22:20:48.298999+00:00'
 datePublished: '2025-09-03T18:02:06.324908+00:00'
 description: 'This dataset includes dLight fiber photometry and behavioral data from
   Floeder et al., 2025: "Mesolimbic dopamine ramps reflect environmental timescales."'
+doi: 10.48324/dandi.001552/0.250903.1802
 ethicsApproval: []
-id: DANDI:001552/draft
+id: DANDI:001552/0.250903.1802
 identifier: DANDI:001552
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001552/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001552/0.250903.1802/assets.yaml
 name: Floeder et al (2025) Mesolimbic dopamine ramps reflect environmental timescales
 publishedBy:
   endDate: '2025-09-03T18:02:06.324908+00:00'
@@ -127,6 +128,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001552/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001552/0.250903.1802
+version: 0.250903.1802
 wasGeneratedBy: []
